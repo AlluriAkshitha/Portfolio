@@ -73,7 +73,7 @@ const About: React.FC = () => {
                   </a>
                 </div>
                 <a 
-                  href="https://drive.google.com/file/d/1nH-LkdMPj_iyavKsmjLfa7xRuRKXcE6_/view?usp=sharing" 
+                  href="https://drive.google.com/file/d/1kc5usZynBI8aLbfrbUztrSynhLY9qdz2/view?usp=drive_link" 
                   target="_blank" 
                   className="inline-block bg-pastel-darkLavender hover:bg-pastel-lavender text-white hover:text-gray-800 py-2 px-6 rounded-lg transition-colors duration-300 font-medium text-center shadow-md hover:shadow-lg"
                 >
